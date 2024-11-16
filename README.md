@@ -5,3 +5,5 @@
 
 Mohamed Oussama El Malki
 300248698
+Test using :
+http://localhost:8080/temperature-converter/celsius-fahrenheit/50
